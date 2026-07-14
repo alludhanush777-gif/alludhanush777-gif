@@ -255,11 +255,6 @@ More backend-focused full stack projects are in the works as I go deeper into **
 
 <div align="center">
 
-<!-- Animated LeetCode card with heatmap -->
-<img src="https://leetcard.jacoblin.cool/Zi9xk8RFNS?theme=light&font=baloo2&ext=heatmap" alt="LeetCode Stats"/>
-
-<br/><br/>
-
 <img src="https://img.shields.io/badge/LeetCode-Zi9xk8RFNS-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 <img src="https://img.shields.io/badge/CodeChef-allu__dhaunsh-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 <img src="https://img.shields.io/badge/HackerRank-alludhanush777-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
