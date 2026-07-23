@@ -3,7 +3,7 @@
   README.md — GitHub Profile
   Owner: Allu Dhanush (Dhanu)
 
-  ⚠️ SETUP NOTE: replace "alludhanush777-gif" everywhere with your final
+  ⚠️ SETUP NOTE: replace "AlluDhanush" everywhere with your final
   GitHub username (find-and-replace this whole file for that exact string).
 
   ── HOW THE ANIMATION IN THIS FILE ACTUALLY WORKS ─────────────────────────
@@ -56,7 +56,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F9E44,100:0A66C2&height=230&section=header&text=Allu%20Dhanush&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Backend-Focused%20Full%20Stack%20Developer&descAlignY=52&descSize=19"/>
 
-<a href="https://github.com/alludhanush777-gif">
+<a href="https://github.com/AlluDhanush">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=2F9E44&center=true&vCenter=true&width=760&lines=Hi+there%2C+I'm+Dhanu+%F0%9F%91%8B;Backend-Focused+Full+Stack+Developer;CSE+Student+%40+Geethanjali+College;Turning+ideas+into+working+systems;Currently+leveling+up+with+React+%2B+AWS;Always+shipping%2C+always+learning" alt="Typing SVG" />
 </a>
 
@@ -69,9 +69,9 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=alludhanush777-gif&label=Profile%20Views&color=2F9E44&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/alludhanush777-gif?label=Followers&style=for-the-badge&color=0A66C2" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/alludhanush777-gif?style=for-the-badge&color=FFD700&label=Stars"/>
+<img src="https://komarev.com/ghpvc/?username=AlluDhanush&label=Profile%20Views&color=2F9E44&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/AlluDhanush?label=Followers&style=for-the-badge&color=0A66C2" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/AlluDhanush?style=for-the-badge&color=FFD700&label=Stars"/>
 
 <br/><br/>
 
@@ -93,7 +93,7 @@ I'm Dhanu — a backend-focused full stack developer who likes making systems wo
 
 <div align="center">
 
-[📖 Latest repo activity ↗](https://github.com/alludhanush777-gif?tab=repositories&sort=pushed) &nbsp;•&nbsp; [🚀 Jump to Projects](#-featured-projects) &nbsp;•&nbsp; [📫 Jump to Contact](#-contact)
+[📖 Latest repo activity ↗](https://github.com/AlluDhanush?tab=repositories&sort=pushed) &nbsp;•&nbsp; [🚀 Jump to Projects](#-featured-projects) &nbsp;•&nbsp; [📫 Jump to Contact](#-contact)
 
 </div>
 
@@ -557,12 +557,12 @@ A full-stack food ordering platform designed for high-traffic college canteens. 
 - Menu structured around beginner-friendly meal suggestions
 - MongoDB-backed order storage for straightforward retrieval
 
-<a href="https://github.com/alludhanush777-gif/Nexus-Culinary">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alludhanush777-gif&repo=Nexus-Culinary&theme=default&hide_border=true"/>
+<a href="https://github.com/AlluDhanush/Nexus-Culinary">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlluDhanush&repo=Nexus-Culinary&theme=default&hide_border=true"/>
 </a>
 
-<img src="https://img.shields.io/github/last-commit/alludhanush777-gif/Nexus-Culinary?style=flat-square&color=2F9E44"/>
-<img src="https://img.shields.io/github/languages/top/alludhanush777-gif/Nexus-Culinary?style=flat-square&color=0A66C2"/>
+<img src="https://img.shields.io/github/last-commit/AlluDhanush/Nexus-Culinary?style=flat-square&color=2F9E44"/>
+<img src="https://img.shields.io/github/languages/top/AlluDhanush/Nexus-Culinary?style=flat-square&color=0A66C2"/>
 <img src="https://img.shields.io/badge/Status-Active-2F9E44?style=flat-square"/>
 
 </td>
@@ -582,12 +582,12 @@ A localized MERN web platform enabling villagers to formally report power grid b
 - Photo upload support so reports include visual evidence
 - Built while actively learning the MERN stack end-to-end
 
-<a href="https://github.com/alludhanush777-gif/Village-Renewable-Energy-Fault-Reporting-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alludhanush777-gif&repo=Village-Renewable-Energy-Fault-Reporting-System&theme=default&hide_border=true"/>
+<a href="https://github.com/AlluDhanush/Village-Renewable-Energy-Fault-Reporting-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlluDhanush&repo=Village-Renewable-Energy-Fault-Reporting-System&theme=default&hide_border=true"/>
 </a>
 
-<img src="https://img.shields.io/github/last-commit/alludhanush777-gif/Village-Renewable-Energy-Fault-Reporting-System?style=flat-square&color=2F9E44"/>
-<img src="https://img.shields.io/github/languages/top/alludhanush777-gif/Village-Renewable-Energy-Fault-Reporting-System?style=flat-square&color=0A66C2"/>
+<img src="https://img.shields.io/github/last-commit/AlluDhanush/Village-Renewable-Energy-Fault-Reporting-System?style=flat-square&color=2F9E44"/>
+<img src="https://img.shields.io/github/languages/top/AlluDhanush/Village-Renewable-Energy-Fault-Reporting-System?style=flat-square&color=0A66C2"/>
 <img src="https://img.shields.io/badge/Status-Active-2F9E44?style=flat-square"/>
 
 </td>
@@ -608,12 +608,12 @@ An interactive, single-interface resume builder allowing developers to easily ge
 - TypeScript throughout for safer form-state handling
 - Focused on reliable export rather than flashy templates
 
-<a href="https://github.com/alludhanush777-gif/Personal-Resume_Builder">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alludhanush777-gif&repo=Personal-Resume_Builder&theme=default&hide_border=true"/>
+<a href="https://github.com/AlluDhanush/Personal-Resume_Builder">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlluDhanush&repo=Personal-Resume_Builder&theme=default&hide_border=true"/>
 </a>
 
-<img src="https://img.shields.io/github/last-commit/alludhanush777-gif/Personal-Resume_Builder?style=flat-square&color=2F9E44"/>
-<img src="https://img.shields.io/github/languages/top/alludhanush777-gif/Personal-Resume_Builder?style=flat-square&color=0A66C2"/>
+<img src="https://img.shields.io/github/last-commit/AlluDhanush/Personal-Resume_Builder?style=flat-square&color=2F9E44"/>
+<img src="https://img.shields.io/github/languages/top/AlluDhanush/Personal-Resume_Builder?style=flat-square&color=0A66C2"/>
 <img src="https://img.shields.io/badge/Status-Active-2F9E44?style=flat-square"/>
 
 </td>
@@ -633,12 +633,12 @@ A meritocratic player-selection platform — helps organize fair, criteria-based
 - Deployed and live on Vercel
 - *(add 1–2 more real highlights once you fill in the details)*
 
-<a href="https://github.com/alludhanush777-gif/FairPlay">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alludhanush777-gif&repo=FairPlay&theme=default&hide_border=true"/>
+<a href="https://github.com/AlluDhanush/FairPlay">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlluDhanush&repo=FairPlay&theme=default&hide_border=true"/>
 </a>
 
-<img src="https://img.shields.io/github/last-commit/alludhanush777-gif/FairPlay?style=flat-square&color=2F9E44"/>
-<img src="https://img.shields.io/github/languages/top/alludhanush777-gif/FairPlay?style=flat-square&color=0A66C2"/>
+<img src="https://img.shields.io/github/last-commit/AlluDhanush/FairPlay?style=flat-square&color=2F9E44"/>
+<img src="https://img.shields.io/github/languages/top/AlluDhanush/FairPlay?style=flat-square&color=0A66C2"/>
 <img src="https://img.shields.io/badge/Status-Active-2F9E44?style=flat-square"/>
 
 </td>
@@ -651,13 +651,13 @@ A meritocratic player-selection platform — helps organize fair, criteria-based
 
 <div align="center">
 
-<a href="https://github.com/alludhanush777-gif?tab=repositories">
+<a href="https://github.com/AlluDhanush?tab=repositories">
   <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://github.com/alludhanush777-gif?tab=repositories&sort=stargazers">
+<a href="https://github.com/AlluDhanush?tab=repositories&sort=stargazers">
   <img src="https://img.shields.io/badge/Sort%20by%20Stars-FFD700?style=for-the-badge&logo=star&logoColor=black"/>
 </a>
-<a href="https://github.com/alludhanush777-gif?tab=repositories&sort=pushed">
+<a href="https://github.com/AlluDhanush?tab=repositories&sort=pushed">
   <img src="https://img.shields.io/badge/Recently%20Updated-808080?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -719,34 +719,34 @@ A meritocratic player-selection platform — helps organize fair, criteria-based
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=alludhanush777-gif&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alludhanush777-gif&layout=compact&hide_border=true&theme=default"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AlluDhanush&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlluDhanush&layout=compact&hide_border=true&theme=default"/>
 
 <br/><br/>
 
 <!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alludhanush777-gif&theme=default&hide_border=true&background=FFFFFF00&ring=2F9E44&fire=0A66C2"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlluDhanush&theme=default&hide_border=true&background=FFFFFF00&ring=2F9E44&fire=0A66C2"/>
 
 <br/><br/>
 
 <!-- Animated contribution activity graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alludhanush777-gif&theme=react-dark&hide_border=true&area=true&color=2F9E44&line=0A66C2&point=FFA116"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AlluDhanush&theme=react-dark&hide_border=true&area=true&color=2F9E44&line=0A66C2&point=FFA116"/>
 
 <br/><br/>
 
 <!-- Animated contribution snake -->
-<img width="100%" src="https://raw.githubusercontent.com/alludhanush777-gif/alludhanush777-gif/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+<img width="100%" src="https://raw.githubusercontent.com/AlluDhanush/AlluDhanush/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
 <br/><br/>
 
 <!-- Animated trophy case -->
-<img src="https://github-profile-trophy.vercel.app/?username=alludhanush777-gif&theme=flat&no-frame=true&row=1&column=6&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AlluDhanush&theme=flat&no-frame=true&row=1&column=6&margin-w=8"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/alludhanush777-gif&label=Public%20Repos&query=public_repos&color=2F9E44&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/alludhanush777-gif?style=for-the-badge&color=0A66C2&label=Followers"/>
-<img src="https://img.shields.io/github/stars/alludhanush777-gif?style=for-the-badge&color=FFD700&label=Total%20Stars"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AlluDhanush&label=Public%20Repos&query=public_repos&color=2F9E44&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/AlluDhanush?style=for-the-badge&color=0A66C2&label=Followers"/>
+<img src="https://img.shields.io/github/stars/AlluDhanush?style=for-the-badge&color=FFD700&label=Total%20Stars"/>
 
 </div>
 
@@ -756,7 +756,7 @@ A meritocratic player-selection platform — helps organize fair, criteria-based
 
 The snake animation above needs a small one-time GitHub Actions setup on your profile repo:
 
-1. Create a repo named exactly `alludhanush777-gif` (matches your username) if it doesn't already exist — this is the special "profile README" repo.
+1. Create a repo named exactly `AlluDhanush` (matches your username) if it doesn't already exist — this is the special "profile README" repo.
 2. Add a workflow file at `.github/workflows/snake.yml` using the `Platane/snk` action.
 3. Point the workflow to output to an `output` branch, which is what the image URL above reads from.
 4. Push once, let the Action run, and the snake will regenerate automatically on a schedule.
