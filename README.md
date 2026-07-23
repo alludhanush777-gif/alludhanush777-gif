@@ -3,7 +3,7 @@
   README.md — GitHub Profile
   Owner: Allu Dhanush (Dhanu)
 
-  ⚠️ SETUP NOTE: replace "alludhanush777-gif" everywhere with your final
+  ⚠️ SETUP NOTE: replace "AlluDhanush" everywhere with your final
   GitHub username (find-and-replace this whole file for that exact string).
 
   This file leans on several free, no-signup, dynamically-regenerating
@@ -18,6 +18,7 @@
     - komarev.com/ghpvc               → live profile view counter
     - skillicons.dev                  → tech stack icon cloud
     - shields.io                      → all flat/for-the-badge badges
+    - leetcard.jacoblin.cool          → LeetCode submission heatmap card
 
   If any single service ever goes down, delete that one <img> line —
   nothing else in the file depends on it.
@@ -32,8 +33,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F9E44,100:0A66C2&height=220&section=header&text=Allu%20Dhanush&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend-Focused%20Full%20Stack%20Developer&descAlignY=55&descSize=20"/>
 
 <!-- Animated typing sequence -->
-<a href="https://github.com/alludhanush777-gif">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F9E44&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Dhanu+%F0%9F%91%8B;Backend-Focused+Full+Stack+Developer;CSE+Student+%40+Geethanjali+College;Turning+ideas+into+working+systems;Currently+leveling+up+with+React+%2B+AWS;Always+shipping%2C+always+learning" alt="Typing SVG" />
+<a href="https://github.com/AlluDhanush">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F9E44&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Dhanu+%F0%9F%91%8B;Backend-Focused+Full+Stack+Developer;CSE+Student+%40+Geethanjali+College;Turning+ideas+into+working+systems;Currently+leveling+up+with+React+%2B+Next.js;Always+shipping%2C+always+learning" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -46,15 +47,15 @@
 <br/><br/>
 
 <!-- Live profile view counter -->
-<img src="https://komarev.com/ghpvc/?username=alludhanush777-gif&label=Profile%20Views&color=2F9E44&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/alludhanush777-gif?label=Followers&style=for-the-badge&color=0A66C2" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=AlluDhanush&label=Profile%20Views&color=2F9E44&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/AlluDhanush?label=Followers&style=for-the-badge&color=0A66C2" alt="Followers"/>
 
 <br/><br/>
 
 <!-- Contact / Social Badges -->
 <a href="mailto:alludhnush777@gmail.com"><img src="https://img.shields.io/badge/Email-alludhnush777%40gmail.com-2F9E44?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://www.linkedin.com/in/allu-dhanush-908537312/"><img src="https://img.shields.io/badge/LinkedIn-Allu%20Dhanush-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://leetcode.com/u/Zi9xk8RFNS/"><img src="https://img.shields.io/badge/LeetCode-Zi9xk8RFNS-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+<a href="https://leetcode.com/u/alludhanu17/"><img src="https://img.shields.io/badge/LeetCode-alludhanu17-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 <a href="http://codechef.com/users/allu_dhaunsh"><img src="https://img.shields.io/badge/CodeChef-allu__dhaunsh-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef"/></a>
 <a href="https://www.hackerrank.com/profile/alludhanush777"><img src="https://img.shields.io/badge/HackerRank-alludhanush777-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
 
@@ -123,7 +124,7 @@ Telugu, English, Hindi
 <td width="50%" valign="top">
 
 🚀 **Current Focus**
-Building scalable, backend-heavy apps while mastering React, AWS, and System Design.
+Building scalable, backend-heavy apps while mastering React, Next.js, and System Design.
 
 🎯 **Career Goal**
 Looking to join a product-based engineering team with a strong, growth-minded culture.
@@ -146,7 +147,7 @@ education: B.Tech CSE, 3rd Year @ Geethanjali College of Engineering (Class of 2
 location: Hyderabad, Telangana, India (IST)
 languages_spoken: [Telugu, English, Hindi]
 currently_building: Scalable backend-heavy full stack apps (Node.js, MongoDB, MySQL)
-currently_learning: [React, AWS, System Design]
+currently_learning: [React, Next.js, System Design]
 looking_to_join: Product-based MNC — Backend Developer (open to Full Stack)
 open_to: [Internships, Freelance backend work, Open Source Collaboration]
 fun_fact: "Experimenting with game physics engines on the side 🎮"
@@ -192,7 +193,7 @@ Moved into backend development with **Node.js** and **MongoDB**. Competed in the
 <td width="15%" valign="top" align="center"><strong>Year 3<br/>(current)</strong></td>
 <td width="85%" valign="top">
 
-Shipping full-stack projects end-to-end — **Nexus-Culinary**, the **Village Renewable Energy Fault Reporting System**, and **Reasume**. Actively learning **React, AWS, and System Design** to round out the stack for product-based backend roles. Getting started with open source contributions.
+Shipping full-stack projects end-to-end — **Nexus-Culinary**, the **Village Renewable Energy Fault Reporting System**, **Reasume**, and **FairPlay**. Actively learning **React, Next.js, and System Design** to round out the stack for product-based backend roles. Getting started with open source contributions.
 
 </td>
 </tr>
@@ -219,12 +220,10 @@ Deepen System Design knowledge, get comfortable deploying on **AWS**, land a bac
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
       <strong>🗄️ Backend & Databases</strong><br/><br/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
     </td>
@@ -266,20 +265,18 @@ Deepen System Design knowledge, get comfortable deploying on **AWS**, land a bac
 `Java`       ████████████████░░░░ 80%
 `Python`     ███████████████░░░░░ 75%
 `JavaScript` ██████████████████░░ 90%
-`TypeScript` █████████████░░░░░░░ 65%
 `Node.js`    █████████████████░░░ 85%
-`Express.js` ████████████████░░░░ 80%
 `MongoDB`    ████████████████░░░░ 80%
 `MySQL`      ██████████████░░░░░░ 70%
 `React`      ██████████░░░░░░░░░░ 50% *(actively learning)*
-`AWS`        ████████░░░░░░░░░░░░ 40% *(actively learning)*
+`Next.js`    ████████░░░░░░░░░░░░ 40% *(actively learning)*
 
 <br/>
 
 ### ☁️ Skill Cloud Overview
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,js,ts,html,css,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,idea,vercel,aws&theme=dark&perline=9"/>
+  <img src="https://skillicons.dev/icons?i=java,py,js,html,css,react,nextjs,nodejs,mongodb,mysql,git,github,vscode,idea,vercel,aws&theme=dark&perline=9"/>
 </div>
 
 <br/>
@@ -293,19 +290,19 @@ Deepen System Design knowledge, get comfortable deploying on **AWS**, land a bac
 <td width="50%" valign="top">
 
 **In progress**
-- [x] Core JavaScript / TypeScript fundamentals
-- [x] REST API design with Node.js + Express
+- [x] Core JavaScript fundamentals
+- [x] REST API design with Node.js
 - [x] MongoDB schema design & aggregation
 - [ ] React component patterns & hooks in depth
-- [ ] AWS fundamentals (EC2, S3, IAM basics)
+- [ ] Next.js routing, data fetching & rendering patterns
 
 </td>
 <td width="50%" valign="top">
 
 **Up next**
 - [ ] System Design fundamentals (scaling, caching, queues)
+- [ ] AWS fundamentals (EC2, S3, IAM basics)
 - [ ] CI/CD pipelines for full stack apps
-- [ ] Docker & containerized deployments
 - [ ] Contributing to a real open source project
 - [ ] Writing technical blog posts about what I build
 
@@ -336,12 +333,12 @@ A full-stack food ordering platform designed for high-traffic college canteens. 
 - Menu structured around beginner-friendly meal suggestions
 - MongoDB-backed order storage for straightforward retrieval
 
-<a href="https://github.com/alludhanush777-gif/Nexus-Culinary">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alludhanush777-gif&repo=Nexus-Culinary&theme=default&hide_border=true"/>
+<a href="https://github.com/AlluDhanush/nexus-culinary">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlluDhanush&repo=nexus-culinary&theme=default&hide_border=true"/>
 </a>
 
-<img src="https://img.shields.io/github/last-commit/alludhanush777-gif/Nexus-Culinary?style=flat-square&color=2F9E44"/>
-<img src="https://img.shields.io/github/languages/top/alludhanush777-gif/Nexus-Culinary?style=flat-square&color=0A66C2"/>
+<img src="https://img.shields.io/github/last-commit/AlluDhanush/nexus-culinary?style=flat-square&color=2F9E44"/>
+<img src="https://img.shields.io/github/languages/top/AlluDhanush/nexus-culinary?style=flat-square&color=0A66C2"/>
 <img src="https://img.shields.io/badge/Status-Active-2F9E44?style=flat-square"/>
 
 </td>
@@ -352,7 +349,7 @@ A full-stack food ordering platform designed for high-traffic college canteens. 
 
 A localized MERN web platform enabling villagers to formally report power grid breakdowns, track maintenance statuses, and submit photo evidence.
 
-**Stack:** MongoDB, Express.js, React, Node.js
+**Stack:** MongoDB, React, Node.js
 **Core Challenge:** Handling dynamic image uploads and state handling smoothly.
 **Link:** [Live Demo ↗](https://village-problem.vercel.app)
 
@@ -361,12 +358,12 @@ A localized MERN web platform enabling villagers to formally report power grid b
 - Photo upload support so reports include visual evidence
 - Built while actively learning the MERN stack end-to-end
 
-<a href="https://github.com/alludhanush777-gif/Village-Renewable-Energy-Fault-Reporting-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alludhanush777-gif&repo=Village-Renewable-Energy-Fault-Reporting-System&theme=default&hide_border=true"/>
+<a href="https://github.com/AlluDhanush/renewable-energy-fault-reporting">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlluDhanush&repo=renewable-energy-fault-reporting&theme=default&hide_border=true"/>
 </a>
 
-<img src="https://img.shields.io/github/last-commit/alludhanush777-gif/Village-Renewable-Energy-Fault-Reporting-System?style=flat-square&color=2F9E44"/>
-<img src="https://img.shields.io/github/languages/top/alludhanush777-gif/Village-Renewable-Energy-Fault-Reporting-System?style=flat-square&color=0A66C2"/>
+<img src="https://img.shields.io/github/last-commit/AlluDhanush/renewable-energy-fault-reporting?style=flat-square&color=2F9E44"/>
+<img src="https://img.shields.io/github/languages/top/AlluDhanush/renewable-energy-fault-reporting?style=flat-square&color=0A66C2"/>
 <img src="https://img.shields.io/badge/Status-Active-2F9E44?style=flat-square"/>
 
 </td>
@@ -379,25 +376,43 @@ A localized MERN web platform enabling villagers to formally report power grid b
 
 An interactive, single-interface resume builder allowing developers to easily generate structured resumes without styling tool overhead.
 
-**Stack:** Next.js, React, TypeScript
+**Stack:** Next.js, React
 **Core Challenge:** Implementing precise formatting conversions for PDF compilation.
 **Link:** [Live Demo ↗](https://reasume.vercel.app)
 
 **Highlights**
 - One-page builder — no separate design tool required
-- TypeScript throughout for safer form-state handling
 - Focused on reliable export rather than flashy templates
 
-<a href="https://github.com/alludhanush777-gif/Reasume">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alludhanush777-gif&repo=Reasume&theme=default&hide_border=true"/>
+<a href="https://github.com/AlluDhanush/resume-builder">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlluDhanush&repo=resume-builder&theme=default&hide_border=true"/>
 </a>
 
-<img src="https://img.shields.io/github/last-commit/alludhanush777-gif/Reasume?style=flat-square&color=2F9E44"/>
-<img src="https://img.shields.io/github/languages/top/alludhanush777-gif/Reasume?style=flat-square&color=0A66C2"/>
+<img src="https://img.shields.io/github/last-commit/AlluDhanush/resume-builder?style=flat-square&color=2F9E44"/>
+<img src="https://img.shields.io/github/languages/top/AlluDhanush/resume-builder?style=flat-square&color=0A66C2"/>
 <img src="https://img.shields.io/badge/Status-Active-2F9E44?style=flat-square"/>
 
 </td>
 
+<td width="50%" valign="top">
+
+### 🏳️ FairPlay
+
+A web app built around fair, transparent decision-making/tracking workflows.
+
+**Stack:** JavaScript, Next.js, React
+**Link:** [Live Demo ↗](https://fairplay-eight.vercel.app/)
+
+<a href="https://github.com/AlluDhanush/fairplay">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlluDhanush&repo=fairplay&theme=default&hide_border=true"/>
+</a>
+
+<img src="https://img.shields.io/badge/Status-Active-2F9E44?style=flat-square"/>
+
+</td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### ➕ More Repositories
@@ -406,19 +421,19 @@ I'm constantly launching new full-stack applications and optimization modules. E
 
 <br/>
 
-<a href="https://github.com/alludhanush777-gif?tab=repositories">
+<a href="https://github.com/AlluDhanush?tab=repositories">
   <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/alludhanush777-gif?tab=repositories&sort=stargazers">
+<a href="https://github.com/AlluDhanush?tab=repositories&sort=stargazers">
   <img src="https://img.shields.io/badge/Sort%20by%20Stars-FFD700?style=for-the-badge&logo=star&logoColor=black"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/alludhanush777-gif?tab=repositories&sort=name">
+<a href="https://github.com/AlluDhanush?tab=repositories&sort=name">
   <img src="https://img.shields.io/badge/Sort%20A--Z-808080?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -435,8 +450,9 @@ I'm constantly launching new full-stack applications and optimization modules. E
 | Project | Primary Stack | Type | Status |
 |---|---|---|---|
 | Nexus-Culinary | JS · HTML/CSS · Node.js · MongoDB | Food ordering platform | 🟢 Active |
-| Village Renewable Energy Fault Reporting | MongoDB · Express · React · Node.js | Civic reporting platform | 🟢 Active |
-| Reasume | Next.js · React · TypeScript | Resume builder | 🟢 Active |
+| Renewable Energy Fault Reporting | MongoDB · React · Node.js | Civic reporting platform | 🟢 Active |
+| Reasume | Next.js · React | Resume builder | 🟢 Active |
+| FairPlay | JavaScript · Next.js · React | Web app | 🟢 Active |
 
 </details>
 
@@ -448,27 +464,27 @@ I'm constantly launching new full-stack applications and optimization modules. E
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=alludhanush777-gif&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alludhanush777-gif&layout=compact&hide_border=true&theme=default"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AlluDhanush&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlluDhanush&layout=compact&hide_border=true&theme=default"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alludhanush777-gif&theme=default&hide_border=true&background=FFFFFF00"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlluDhanush&theme=default&hide_border=true&background=FFFFFF00"/>
 
 <br/><br/>
 
 <!-- Animated contribution activity graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alludhanush777-gif&theme=react-dark&hide_border=true&area=true&color=2F9E44&line=0A66C2&point=FFA116"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AlluDhanush&theme=react-dark&hide_border=true&area=true&color=2F9E44&line=0A66C2&point=FFA116"/>
 
 <br/><br/>
 
 <!-- Animated contribution snake -->
-<img width="100%" src="https://raw.githubusercontent.com/alludhanush777-gif/alludhanush777-gif/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+<img width="100%" src="https://raw.githubusercontent.com/AlluDhanush/AlluDhanush/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
 <br/><br/>
 
 <!-- Animated trophy case -->
-<img src="https://github-profile-trophy.vercel.app/?username=alludhanush777-gif&theme=flat&no-frame=true&row=1&column=6&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AlluDhanush&theme=flat&no-frame=true&row=1&column=6&margin-w=8"/>
 
 </div>
 
@@ -478,7 +494,7 @@ I'm constantly launching new full-stack applications and optimization modules. E
 
 The snake animation above needs a small one-time GitHub Actions setup on your profile repo:
 
-1. Create a repo named exactly `alludhanush777-gif` (matches your username) if it doesn't already exist — this is the special "profile README" repo.
+1. Create a repo named exactly `AlluDhanush` (matches your username) if it doesn't already exist — this is the special "profile README" repo.
 2. Add a workflow file at `.github/workflows/snake.yml` using the `Platane/snk` action.
 3. Point the workflow to output to an `output` branch, which is what the image URL above reads from.
 4. Push once, let the Action run, and the snake will regenerate automatically on a schedule.
@@ -495,9 +511,14 @@ If this isn't set up yet, that single `<img>` line will just show a broken image
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LeetCode-Zi9xk8RFNS-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-alludhanu17-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 <img src="https://img.shields.io/badge/CodeChef-allu__dhaunsh-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 <img src="https://img.shields.io/badge/HackerRank-alludhanush777-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+
+<br/><br/>
+
+<!-- LeetCode submission heatmap card -->
+<img src="https://leetcard.jacoblin.cool/alludhanu17?theme=dark&ext=heatmap" alt="LeetCode Stats"/>
 
 </div>
 
@@ -505,7 +526,7 @@ If this isn't set up yet, that single `<img>` line will just show a broken image
 
 | Platform | Handle | Focus |
 |---|---|---|
-| 🟠 LeetCode | [Zi9xk8RFNS](https://leetcode.com/u/Zi9xk8RFNS/) | Data structures & algorithm practice |
+| 🟠 LeetCode | [alludhanu17](https://leetcode.com/u/alludhanu17/) | Data structures & algorithm practice |
 | 🟤 CodeChef | [allu_dhaunsh](http://codechef.com/users/allu_dhaunsh) | Contest-style problem solving |
 | 🟢 HackerRank | [alludhanush777](https://www.hackerrank.com/profile/alludhanush777) | Language & domain skill certifications |
 
@@ -568,7 +589,7 @@ I'm just getting started with open source, but here's how I like to work with ot
 - 🤝 **Pair-friendly** — open to pairing on backend logic, API design, or database schema decisions.
 - 📬 **Reach out before a big PR** — for anything non-trivial, I'll open an issue or discussion first so we're aligned before I put in the work.
 
-If you're maintaining a beginner-friendly Node.js, Express, or MongoDB project and could use an extra pair of hands, feel free to reach out.
+If you're maintaining a beginner-friendly Node.js or MongoDB project and could use an extra pair of hands, feel free to reach out.
 
 <br/>
 
@@ -585,7 +606,7 @@ A Backend Developer role at a product-based company, ideally on a team that owns
 <details>
 <summary><strong>What are you learning right now?</strong></summary>
 <br/>
-React (for a more complete full-stack skill set), AWS fundamentals, and System Design — with a focus on being able to design and reason about scalable backend systems, not just build CRUD apps.
+React and Next.js (for a more complete full-stack skill set), along with System Design — with a focus on being able to design and reason about scalable backend systems, not just build CRUD apps.
 </details>
 
 <details>
@@ -628,7 +649,7 @@ Have an opportunity, a project idea, or just want to talk backend architecture? 
 
 <a href="mailto:alludhnush777@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/allu-dhanush-908537312/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/u/Zi9xk8RFNS/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://leetcode.com/u/alludhanu17/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="http://codechef.com/users/allu_dhaunsh"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/profile/alludhanush777"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 
@@ -649,6 +670,10 @@ Have an opportunity, a project idea, or just want to talk backend architecture? 
 
 <!--
   Changelog (for personal tracking — remove if you don't want it public):
+  v4 — Removed TypeScript/Express.js from stack, switched active learning
+       from AWS to Next.js, updated LeetCode handle, added LeetCode heatmap
+       card, added FairPlay project, updated repo names, and switched all
+       stat/URL references to the AlluDhanush username.
   v3 — Expanded with Journey timeline, Learning Roadmap, Open Source section,
        FAQ, project comparison table, and contribution snake setup notes.
   v2 — Reworked tech stack into a table, added streak/activity graph,
