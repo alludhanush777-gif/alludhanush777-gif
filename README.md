@@ -45,11 +45,7 @@
 <img src="https://img.shields.io/badge/Year-3rd%20Year%20CSE-FFA116?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 
 <br/><br/>
-
 <!-- Live profile view counter -->
-<img src="https://komarev.com/ghpvc/?username=AlluDhanush&label=Profile%20Views&color=2F9E44&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/AlluDhanush?label=Followers&style=for-the-badge&color=0A66C2" alt="Followers"/>
-
 <br/><br/>
 
 <!-- Contact / Social Badges -->
