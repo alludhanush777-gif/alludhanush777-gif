@@ -456,52 +456,7 @@ I'm constantly launching new full-stack applications and optimization modules. E
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2F9E44&height=2"/>
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AlluDhanush&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlluDhanush&layout=compact&hide_border=true&theme=default"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlluDhanush&theme=default&hide_border=true&background=FFFFFF00"/>
-
-<br/><br/>
-
-<!-- Animated contribution activity graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AlluDhanush&theme=react-dark&hide_border=true&area=true&color=2F9E44&line=0A66C2&point=FFA116"/>
-
-<br/><br/>
-
-<!-- Animated contribution snake -->
-<img width="100%" src="https://raw.githubusercontent.com/AlluDhanush/AlluDhanush/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-
-<br/><br/>
-
-<!-- Animated trophy case -->
-<img src="https://github-profile-trophy.vercel.app/?username=AlluDhanush&theme=flat&no-frame=true&row=1&column=6&margin-w=8"/>
-
-</div>
-
-<details>
-<summary><strong>🐍 How to enable the contribution snake (click to expand)</strong></summary>
-<br/>
-
-The snake animation above needs a small one-time GitHub Actions setup on your profile repo:
-
-1. Create a repo named exactly `AlluDhanush` (matches your username) if it doesn't already exist — this is the special "profile README" repo.
-2. Add a workflow file at `.github/workflows/snake.yml` using the `Platane/snk` action.
-3. Point the workflow to output to an `output` branch, which is what the image URL above reads from.
-4. Push once, let the Action run, and the snake will regenerate automatically on a schedule.
-
-If this isn't set up yet, that single `<img>` line will just show a broken image — delete it until you've configured the workflow.
-
-</details>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A66C2&height=2"/>
 
 ## 🧩 Competitive Programming
 
