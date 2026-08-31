@@ -61,38 +61,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2F9E44&height=2"/>
 
-## 📑 Table of Contents
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-- [👋 About Me](#-about-me)
-- [🗓️ My Journey](#️-my-journey)
-- [🛠️ Tech Stack](#️-tech-stack)
-- [🧭 Learning Roadmap](#-learning-roadmap)
-
-</td>
-<td width="33%" valign="top">
-
-- [🚀 Pinned Projects](#-pinned-projects)
-- [📊 GitHub Analytics](#-github-analytics)
-- [🧩 Competitive Programming](#-competitive-programming)
-- [🏆 Hackathons & Track Record](#-hackathons--track-record)
-
-</td>
-<td width="33%" valign="top">
-
-- [🎯 Current Target Metrics](#-current-target-metrics)
-- [🤝 Open Source & Collaboration](#-open-source--collaboration)
-- [❓ FAQ](#-faq)
-- [📫 Let's Connect](#-lets-connect)
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2F9E44&height=2"/>
 
@@ -254,20 +222,7 @@ Deepen System Design knowledge, get comfortable deploying on **AWS**, land a bac
   </tr>
 </table>
 
-<br/>
 
-**Proficiency snapshot**
-
-`Java`       ████████████████░░░░ 80%
-`Python`     ███████████████░░░░░ 75%
-`JavaScript` ██████████████████░░ 90%
-`Node.js`    █████████████████░░░ 85%
-`MongoDB`    ████████████████░░░░ 80%
-`MySQL`      ██████████████░░░░░░ 70%
-`React`      ██████████░░░░░░░░░░ 50% *(actively learning)*
-`Next.js`    ████████░░░░░░░░░░░░ 40% *(actively learning)*
-
-<br/>
 
 ### ☁️ Skill Cloud Overview
 
@@ -279,34 +234,7 @@ Deepen System Design knowledge, get comfortable deploying on **AWS**, land a bac
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A66C2&height=2"/>
 
-## 🧭 Learning Roadmap
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**In progress**
-- [x] Core JavaScript fundamentals
-- [x] REST API design with Node.js
-- [x] MongoDB schema design & aggregation
-- [ ] React component patterns & hooks in depth
-- [ ] Next.js routing, data fetching & rendering patterns
-
-</td>
-<td width="50%" valign="top">
-
-**Up next**
-- [ ] System Design fundamentals (scaling, caching, queues)
-- [ ] AWS fundamentals (EC2, S3, IAM basics)
-- [ ] CI/CD pipelines for full stack apps
-- [ ] Contributing to a real open source project
-- [ ] Writing technical blog posts about what I build
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2F9E44&height=2"/>
 
