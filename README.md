@@ -18,7 +18,7 @@
     - komarev.com/ghpvc               → live profile view counter
     - skillicons.dev                  → tech stack icon cloud
     - shields.io                      → all flat/for-the-badge badges
-    - leetcard.jacoblin.cool          → LeetCode submission heatmap card
+    - leetcard.jacoblin.cool           → LeetCode submission heatmap card
 
   If any single service ever goes down, delete that one <img> line —
   nothing else in the file depends on it.
@@ -30,9 +30,11 @@
 <div align="center">
 
 <!-- Animated gradient wave banner -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F9E44,100:0A66C2&height=220&section=header&text=Allu%20Dhanush&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend-Focused%20Full%20Stack%20Developer&descAlignY=55&descSize=20"/>
 
 <!-- Animated typing sequence -->
+
 <a href="https://github.com/AlluDhanush">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F9E44&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Dhanu+%F0%9F%91%8B;Backend-Focused+Full+Stack+Developer;CSE+Student+%40+Geethanjali+College;Turning+ideas+into+working+systems;Currently+leveling+up+with+React+%2B+Next.js;Always+shipping%2C+always+learning" alt="Typing SVG" />
 </a>
@@ -40,27 +42,20 @@
 <br/>
 
 <!-- Status + quick-glance badges -->
+
 <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-2F9E44?style=for-the-badge&logo=briefcase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Based%20in-Hyderabad%2C%20India-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 <img src="https://img.shields.io/badge/Year-3rd%20Year%20CSE-FFA116?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 
 <br/><br/>
-<!-- Live profile view counter -->
-<br/><br/>
 
 <!-- Contact / Social Badges -->
-<a href="mailto:alludhnush777@gmail.com"><img src="https://img.shields.io/badge/Email-alludhnush777%40gmail.com-2F9E44?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/allu-dhanush-908537312/"><img src="https://img.shields.io/badge/LinkedIn-Allu%20Dhanush-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://leetcode.com/u/alludhanu17/"><img src="https://img.shields.io/badge/LeetCode-alludhanu17-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-<a href="http://codechef.com/users/allu_dhaunsh"><img src="https://img.shields.io/badge/CodeChef-allu__dhaunsh-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef"/></a>
-<a href="https://www.hackerrank.com/profile/alludhanush777"><img src="https://img.shields.io/badge/HackerRank-alludhanush777-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
+
+<a href="mailto:alludhnush777@gmail.com"><img src="https://img.shields.io/badge/Email-alludhnush777%40gmail.com-2F9E44?style=flat&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://www.linkedin.com/in/allu-dhanush-908537312/"><img src="https://img.shields.io/badge/LinkedIn-Allu%20Dhanush-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://leetcode.com/u/alludhanu17/"><img src="https://img.shields.io/badge/LeetCode-alludhanu17-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"/></a> <a href="http://codechef.com/users/allu_dhaunsh"><img src="https://img.shields.io/badge/CodeChef-allu__dhaunsh-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef"/></a> <a href="https://www.hackerrank.com/profile/alludhanush777"><img src="https://img.shields.io/badge/HackerRank-alludhanush777-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
 
 </div>
 
 <br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2F9E44&height=2"/>
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2F9E44&height=2"/>
 
@@ -85,10 +80,11 @@ Hyderabad, Telangana, India (IST)
 Telugu, English, Hindi
 
 </td>
+
 <td width="50%" valign="top">
 
 🚀 **Current Focus**
-Building scalable, backend-heavy apps while mastering React, Next.js, and System Design.
+Building scalable, backend-heavy apps while mastering React, Next.js, Django, and System Design.
 
 🎯 **Career Goal**
 Looking to join a product-based engineering team with a strong, growth-minded culture.
@@ -110,8 +106,8 @@ role: Backend-Focused Full Stack Developer
 education: B.Tech CSE, 3rd Year @ Geethanjali College of Engineering (Class of 2028)
 location: Hyderabad, Telangana, India (IST)
 languages_spoken: [Telugu, English, Hindi]
-currently_building: Scalable backend-heavy full stack apps (Node.js, MongoDB, MySQL)
-currently_learning: [React, Next.js, System Design]
+currently_building: Scalable backend-heavy full stack apps (Node.js, Django, MongoDB, MySQL)
+currently_learning: [React, Next.js, Django, System Design]
 looking_to_join: Product-based MNC — Backend Developer (open to Full Stack)
 open_to: [Internships, Freelance backend work, Open Source Collaboration]
 fun_fact: "Experimenting with game physics engines on the side 🎮"
@@ -123,57 +119,16 @@ fun_fact: "Experimenting with game physics engines on the side 🎮"
 <summary><strong>🧠 How I like to work (click to expand)</strong></summary>
 <br/>
 
-- **Backend-first mindset** — I care about what happens under the hood: schema design, query performance, API contracts, and error handling, before I worry about pixel-perfect UI.
-- **Ship, then refine** — I'd rather have a working end-to-end flow I can iterate on than a perfect plan that never leaves the whiteboard.
-- **Documentation as I go** — comments, READMEs, and commit messages that explain *why*, not just *what*.
-- **Learning in public** — most of my repos are also my notes; I'd rather have a messy commit history that shows growth than a polished one that hides it.
+* **Backend-first mindset** — I care about what happens under the hood: schema design, query performance, API contracts, and error handling, before I worry about pixel-perfect UI.
+* **Ship, then refine** — I'd rather have a working end-to-end flow I can iterate on than a perfect plan that never leaves the whiteboard.
+* **Documentation as I go** — comments, READMEs, and commit messages that explain *why*, not just *what*.
+* **Learning in public** — most of my repos are also my notes; I'd rather have a messy commit history that shows growth than a polished one that hides it.
 
 </details>
 
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A66C2&height=2"/>
-
-## 🗓️ My Journey
-
-<table width="100%">
-<tr>
-<td width="15%" valign="top" align="center"><strong>Year 1</strong></td>
-<td width="85%" valign="top">
-
-Started with the fundamentals — C, Java basics, and data structures. Got introduced to web development and built my first static HTML/CSS pages. Participated in my first college **Ideathon**.
-
-</td>
-</tr>
-<tr>
-<td width="15%" valign="top" align="center"><strong>Year 2</strong></td>
-<td width="85%" valign="top">
-
-Moved into backend development with **Node.js** and **MongoDB**. Competed in the **GEN Hackathon** and an **off-campus hackathon**, finishing **Top 15 out of ~100 teams**. Started solving problems consistently on LeetCode, CodeChef, and HackerRank.
-
-</td>
-</tr>
-<tr>
-<td width="15%" valign="top" align="center"><strong>Year 3<br/>(current)</strong></td>
-<td width="85%" valign="top">
-
-Shipping full-stack projects end-to-end — **Nexus-Culinary**, the **Village Renewable Energy Fault Reporting System**, **Reasume**, and **FairPlay**. Actively learning **React, Next.js, and System Design** to round out the stack for product-based backend roles. Getting started with open source contributions.
-
-</td>
-</tr>
-<tr>
-<td width="15%" valign="top" align="center"><strong>Next</strong></td>
-<td width="85%" valign="top">
-
-Deepen System Design knowledge, get comfortable deploying on **AWS**, land a backend-focused internship, and start contributing to real open source projects instead of just personal ones.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2F9E44&height=2"/>
 
 ## 🛠️ Tech Stack
 
@@ -185,13 +140,19 @@ Deepen System Design knowledge, get comfortable deploying on **AWS**, land a bac
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
     </td>
-    <td width="50%" valign="top">
-      <strong>🗄️ Backend & Databases</strong><br/><br/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-    </td>
+
+```
+<td width="50%" valign="top">
+  <strong>🗄️ Backend & Databases</strong><br/><br/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</td>
+```
+
   </tr>
+
   <tr>
     <td width="50%" valign="top">
       <strong>🎨 Frontend Frameworks</strong><br/><br/>
@@ -200,41 +161,45 @@ Deepen System Design knowledge, get comfortable deploying on **AWS**, land a bac
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
     </td>
-    <td width="50%" valign="top">
-      <strong>⚙️ Tools & Platforms</strong><br/><br/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=flat-square&logo=google&logoColor=white"/>
-    </td>
+
+```
+<td width="50%" valign="top">
+  <strong>⚙️ Tools & Platforms</strong><br/><br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=flat-square&logo=google&logoColor=white"/>
+</td>
+```
+
   </tr>
+
   <tr>
     <td width="50%" valign="top">
       <strong>🧑‍💻 Editors & IDEs</strong><br/><br/>
       <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
       <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
     </td>
-    <td width="50%" valign="top">
-      <strong>☁️ Deployment</strong><br/><br/>
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=github&logoColor=white"/>
-    </td>
+
+```
+<td width="50%" valign="top">
+  <strong>☁️ Deployment</strong><br/><br/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=github&logoColor=white"/>
+</td>
+```
+
   </tr>
 </table>
-
-
 
 ### ☁️ Skill Cloud Overview
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,js,html,css,react,nextjs,nodejs,mongodb,mysql,git,github,vscode,idea,vercel,aws&theme=dark&perline=9"/>
+  <img src="https://skillicons.dev/icons?i=java,py,js,html,css,react,nextjs,nodejs,django,mongodb,mysql,git,github,vscode,idea,vercel&theme=dark&perline=9"/>
 </div>
 
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A66C2&height=2"/>
-
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2F9E44&height=2"/>
 
@@ -242,6 +207,7 @@ Deepen System Design knowledge, get comfortable deploying on **AWS**, land a bac
 
 <table width="100%">
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🍽️ Nexus-Culinary
@@ -253,9 +219,10 @@ A full-stack food ordering platform designed for high-traffic college canteens. 
 **Link:** [Live Demo ↗](https://nexus-culinary.vercel.app)
 
 **Highlights**
-- Browse-and-order flow built for first-time canteen users
-- Menu structured around beginner-friendly meal suggestions
-- MongoDB-backed order storage for straightforward retrieval
+
+* Browse-and-order flow built for first-time canteen users
+* Menu structured around beginner-friendly meal suggestions
+* MongoDB-backed order storage for straightforward retrieval
 
 <a href="https://github.com/AlluDhanush/nexus-culinary">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlluDhanush&repo=nexus-culinary&theme=default&hide_border=true"/>
@@ -278,9 +245,10 @@ A localized MERN web platform enabling villagers to formally report power grid b
 **Link:** [Live Demo ↗](https://village-problem.vercel.app)
 
 **Highlights**
-- Structured issue-reporting form replacing informal reporting channels
-- Photo upload support so reports include visual evidence
-- Built while actively learning the MERN stack end-to-end
+
+* Structured issue-reporting form replacing informal reporting channels
+* Photo upload support so reports include visual evidence
+* Built while actively learning the MERN stack end-to-end
 
 <a href="https://github.com/AlluDhanush/renewable-energy-fault-reporting">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlluDhanush&repo=renewable-energy-fault-reporting&theme=default&hide_border=true"/>
@@ -294,6 +262,7 @@ A localized MERN web platform enabling villagers to formally report power grid b
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 📄 Reasume
@@ -305,8 +274,9 @@ An interactive, single-interface resume builder allowing developers to easily ge
 **Link:** [Live Demo ↗](https://reasume.vercel.app)
 
 **Highlights**
-- One-page builder — no separate design tool required
-- Focused on reliable export rather than flashy templates
+
+* One-page builder — no separate design tool required
+* Focused on reliable export rather than flashy templates
 
 <a href="https://github.com/AlluDhanush/resume-builder">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlluDhanush&repo=resume-builder&theme=default&hide_border=true"/>
@@ -337,6 +307,7 @@ A web app built around fair, transparent decision-making/tracking workflows.
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### ➕ More Repositories
@@ -362,6 +333,7 @@ I'm constantly launching new full-stack applications and optimization modules. E
 </a>
 
 </td>
+
 </tr>
 </table>
 
@@ -371,20 +343,18 @@ I'm constantly launching new full-stack applications and optimization modules. E
 <summary><strong>🗂️ Full project comparison table (click to expand)</strong></summary>
 <br/>
 
-| Project | Primary Stack | Type | Status |
-|---|---|---|---|
-| Nexus-Culinary | JS · HTML/CSS · Node.js · MongoDB | Food ordering platform | 🟢 Active |
-| Renewable Energy Fault Reporting | MongoDB · React · Node.js | Civic reporting platform | 🟢 Active |
-| Reasume | Next.js · React | Resume builder | 🟢 Active |
-| FairPlay | JavaScript · Next.js · React | Web app | 🟢 Active |
+| Project                          | Primary Stack                     | Type                     | Status    |
+| -------------------------------- | --------------------------------- | ------------------------ | --------- |
+| Nexus-Culinary                   | JS · HTML/CSS · Node.js · MongoDB | Food ordering platform   | 🟢 Active |
+| Renewable Energy Fault Reporting | MongoDB · React · Node.js         | Civic reporting platform | 🟢 Active |
+| Reasume                          | Next.js · React                   | Resume builder           | 🟢 Active |
+| FairPlay                         | JavaScript · Next.js · React      | Web app                  | 🟢 Active |
 
 </details>
 
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2F9E44&height=2"/>
-
-
 
 ## 🧩 Competitive Programming
 
@@ -397,16 +367,17 @@ I'm constantly launching new full-stack applications and optimization modules. E
 <br/><br/>
 
 <!-- LeetCode submission heatmap card -->
+
 <img src="https://leetcard.jacoblin.cool/alludhanu17?theme=dark&ext=heatmap" alt="LeetCode Stats"/>
 
 </div>
 
 <br/>
 
-| Platform | Handle | Focus |
-|---|---|---|
-| 🟠 LeetCode | [alludhanu17](https://leetcode.com/u/alludhanu17/) | Data structures & algorithm practice |
-| 🟤 CodeChef | [allu_dhaunsh](http://codechef.com/users/allu_dhaunsh) | Contest-style problem solving |
+| Platform      | Handle                                                              | Focus                                  |
+| ------------- | ------------------------------------------------------------------- | -------------------------------------- |
+| 🟠 LeetCode   | [alludhanu17](https://leetcode.com/u/alludhanu17/)                  | Data structures & algorithm practice   |
+| 🟤 CodeChef   | [allu_dhaunsh](http://codechef.com/users/allu_dhaunsh)              | Contest-style problem solving          |
 | 🟢 HackerRank | [alludhanush777](https://www.hackerrank.com/profile/alludhanush777) | Language & domain skill certifications |
 
 <br/>
@@ -417,12 +388,12 @@ I'm constantly launching new full-stack applications and optimization modules. E
 
 <div align="center">
 
-| Achievement Category | Metric / Detail |
-| :--- | :--- |
+| Achievement Category           | Metric / Detail                                                                |
+| :----------------------------- | :----------------------------------------------------------------------------- |
 | 🧑‍💻 **Hackathon Experience** | Competed in 4 hackathons (GEN Hackathon, College Ideathons, Off-campus events) |
-| 🥈 **Top Placement** | Finished **Top 15** out of ~100 competing teams |
-| 🎓 **Academic Merit** | Awarded an engineering fee scholarship based on a **9499 TS EAMCET** rank |
-| 🗣️ **Core Soft Skill** | Technical public speaking, architecture presentation, and pitching |
+| 🥈 **Top Placement**           | Finished **Top 15** out of ~100 competing teams                                |
+| 🎓 **Academic Merit**          | Awarded an engineering fee scholarship based on a **9499 TS EAMCET** rank      |
+| 🗣️ **Core Soft Skill**        | Technical public speaking, architecture presentation, and pitching             |
 
 </div>
 
@@ -434,24 +405,28 @@ I'm constantly launching new full-stack applications and optimization modules. E
 
 <table width="100%">
 <tr>
+
 <td width="33%" valign="top" align="center">
 
 **📚 Active Upskilling**
 Implementing structural system design principles into real code.
 
 </td>
+
 <td width="33%" valign="top" align="center">
 
 **💼 Open To**
 Core Backend Internships, Open Source Collaboration, Full-Stack teams.
 
 </td>
+
 <td width="33%" valign="top" align="center">
 
 **🎮 Hobby Dev**
 Experimenting with game physics engines and mechanics.
 
 </td>
+
 </tr>
 </table>
 
@@ -463,12 +438,12 @@ Experimenting with game physics engines and mechanics.
 
 I'm just getting started with open source, but here's how I like to work with others:
 
-- 🐛 **Issues first** — happy to start with small, well-scoped issues before tackling bigger features.
-- 🔍 **Code review welcome** — I want feedback on my code, not just approval.
-- 🤝 **Pair-friendly** — open to pairing on backend logic, API design, or database schema decisions.
-- 📬 **Reach out before a big PR** — for anything non-trivial, I'll open an issue or discussion first so we're aligned before I put in the work.
+* 🐛 **Issues first** — happy to start with small, well-scoped issues before tackling bigger features.
+* 🔍 **Code review welcome** — I want feedback on my code, not just approval.
+* 🤝 **Pair-friendly** — open to pairing on backend logic, API design, or database schema decisions.
+* 📬 **Reach out before a big PR** — for anything non-trivial, I'll open an issue or discussion first so we're aligned before I put in the work.
 
-If you're maintaining a beginner-friendly Node.js or MongoDB project and could use an extra pair of hands, feel free to reach out.
+If you're maintaining a beginner-friendly Node.js, Django, or MongoDB project and could use an extra pair of hands, feel free to reach out.
 
 <br/>
 
@@ -479,25 +454,33 @@ If you're maintaining a beginner-friendly Node.js or MongoDB project and could u
 <details>
 <summary><strong>What kind of role are you looking for?</strong></summary>
 <br/>
+
 A Backend Developer role at a product-based company, ideally on a team that owns real infrastructure decisions. I'm also open to Full Stack roles where backend is the primary focus.
+
 </details>
 
 <details>
 <summary><strong>What are you learning right now?</strong></summary>
 <br/>
-React and Next.js (for a more complete full-stack skill set), along with System Design — with a focus on being able to design and reason about scalable backend systems, not just build CRUD apps.
+
+React, Next.js, and Django for a more complete full-stack skill set, along with System Design — with a focus on being able to design and reason about scalable backend systems, not just build CRUD apps.
+
 </details>
 
 <details>
 <summary><strong>Are you open to freelance or contract work?</strong></summary>
 <br/>
+
 Yes — small backend-focused freelance projects (API design, database work, integrations) are welcome alongside internship opportunities.
+
 </details>
 
 <details>
 <summary><strong>What's the best way to reach you?</strong></summary>
 <br/>
+
 Email or LinkedIn (both linked below) are the fastest ways to reach me. I check both regularly.
+
 </details>
 
 <br/>
@@ -506,13 +489,13 @@ Email or LinkedIn (both linked below) are the fastest ways to reach me. I check 
 
 ## 🎮 A Bit More About Me
 
-| | |
-|---|---|
-| 💻 Favorite IDEs | VS Code & IntelliJ IDEA |
-| ❤️ Favorite Languages | Java & Python |
-| 🎮 Hobby | Learning game development |
-| 🗣️ Languages I speak | Telugu, English, Hindi |
-| 📍 Time Zone | IST (UTC+5:30) |
+|                       |                           |
+| --------------------- | ------------------------- |
+| 💻 Favorite IDEs      | VS Code & IntelliJ IDEA   |
+| ❤️ Favorite Languages | Java & Python             |
+| 🎮 Hobby              | Learning game development |
+| 🗣️ Languages I speak | Telugu, English, Hindi    |
+| 📍 Time Zone          | IST (UTC+5:30)            |
 
 <br/>
 
@@ -526,11 +509,7 @@ Have an opportunity, a project idea, or just want to talk backend architecture? 
 
 <br/>
 
-<a href="mailto:alludhnush777@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/allu-dhanush-908537312/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/u/alludhanu17/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="http://codechef.com/users/allu_dhaunsh"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/profile/alludhanush777"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="mailto:alludhnush777@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/allu-dhanush-908537312/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://leetcode.com/u/alludhanu17/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a> <a href="http://codechef.com/users/allu_dhaunsh"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a> <a href="https://www.hackerrank.com/profile/alludhanush777"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -538,26 +517,12 @@ Have an opportunity, a project idea, or just want to talk backend architecture? 
   <img src="https://img.shields.io/badge/⬆%20Back%20to%20Top-808080?style=flat-square"/>
 </a>
 
-<br/><br/>
-
 <!-- Closing typing line -->
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%E2%AD%90;Always+open+to+collaboration+and+learning+together." alt="Footer Typing SVG"/>
 
 </div>
 
 <br/>
-
-<!--
-  Changelog (for personal tracking — remove if you don't want it public):
-  v4 — Removed TypeScript/Express.js from stack, switched active learning
-       from AWS to Next.js, updated LeetCode handle, added LeetCode heatmap
-       card, added FairPlay project, updated repo names, and switched all
-       stat/URL references to the AlluDhanush username.
-  v3 — Expanded with Journey timeline, Learning Roadmap, Open Source section,
-       FAQ, project comparison table, and contribution snake setup notes.
-  v2 — Reworked tech stack into a table, added streak/activity graph,
-       rewrote project descriptions, added achievements table.
-  v1 — Initial animated profile README (typing header, badges, stats).
--->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:2F9E44&height=120&section=footer"/>
